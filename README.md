@@ -18,6 +18,7 @@ It helps in understanding:
 .Forecasted sales patterns
 
 🧠 Business Problem
+
 Businesses often struggle to:
 
 .Track real-time sales performance
@@ -37,6 +38,7 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 .Data Visualization
 
 📌 Key Features of Dashboard
+
 📊 .KPI Cards (Sales, Profit, Quantity, Profit Margin)
 🌍 .Regional Sales Map Visualization
 📈 .Year-wise Sales & Profit Trend Analysis
@@ -47,6 +49,7 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 💰 .Profit Margin Analysis
 
 📈 Key Insights
+
 .Total sales and profit show consistent growth trend over years
 .Certain categories significantly drive overall revenue and profit
 .Regional analysis highlights high-performing and low-performing areas
@@ -54,6 +57,7 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 .Profit margin remains a key indicator of business efficiency
 
 📊 DAX Measures Used
+
 .Total Sales
 .Total Profit
 .Profit Margin (%)
@@ -63,12 +67,14 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 📷 Dashboard Preview
 
 📌 Future Improvements
+
 .Integration with SQL database for real-time updates
 .Advanced forecasting using ML models
 .Automated data refresh pipeline
 .Drill-through analysis for deeper insights
 
 🎯 Skills Demonstrated
+
 .Data Cleaning & Transformation
 .Business Intelligence Reporting
 .KPI Design
@@ -77,8 +83,9 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 .Analytical Thinking
 
 👨‍💻 Author
+
 Shubham Kumar Gupta
-B.Com Final Year Student | ACCA (Ongoing)
+B.Com Final Year Student 
 Aspiring Data Analyst
 
 ⭐ If you like this project
