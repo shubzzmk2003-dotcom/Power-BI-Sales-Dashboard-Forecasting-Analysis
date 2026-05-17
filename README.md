@@ -1,3 +1,4 @@
+<img width="1529" height="845" alt="screenshot-1779045554897" src="https://github.com/user-attachments/assets/18953d53-87a8-4b6a-96bc-abfa3e4e5e47" />
 # Power-BI-Sales-Dashboard-Forecasting-Analysis
 📊 Super_Sales Analytics Dashboard
 
