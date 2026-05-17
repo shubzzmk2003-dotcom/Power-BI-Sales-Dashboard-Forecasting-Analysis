@@ -1,11 +1,12 @@
-<img width="1529" height="845" alt="screenshot-1779045554897" src="https://github.com/user-attachments/assets/18953d53-87a8-4b6a-96bc-abfa3e4e5e47" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-gupta-a3a125407/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubzzmk2003-dotcom)
 # Power-BI-Sales-Dashboard-Forecasting-Analysis
 📊 Super_Sales Analytics Dashboard
 
 An interactive Power BI dashboard built to analyze SuperStore sales data, track performance metrics, and generate actionable business insights using data visualization and forecasting techniques.
 
 🔗 LinkedIn: https://www.linkedin.com/in/shubham-kumar-gupta-a3a125407/
-🔗 GitHub: shubzzmk2003-dotcom
+🔗 GitHub: https://github.com/shubzzmk2003-dotcom
 
 🚀 Project Overview
 
@@ -57,6 +58,16 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 .Forecasting model shows stable future sales pattern
 .Profit margin remains a key indicator of business efficiency
 
+📉 Sales Forecasting
+
+. Implemented **time-series forecasting** to predict future sales trends  
+. Forecast helps in understanding short-term business performance  
+. Shows expected sales movement based on historical patterns  
+. Helps in inventory planning and demand estimation  
+. Provides insights for better business decision-making  
+
+📊 The forecast indicates a **stable sales trend with minor fluctuations**, suggesting consistent market demand.
+
 📊 DAX Measures Used
 
 .Total Sales
@@ -65,7 +76,22 @@ This dashboard solves these problems by transforming raw sales data into clear, 
 .Total Quantity
 .Year-over-Year Growth
 .Forecast Metrics
-📷 Dashboard Preview
+
+📷  Dashboard Preview
+
+ 🏠 Cover Page
+<img width="1529" height="845" alt="screenshot-1779045554897" src="https://github.com/user-attachments/assets/a3eccad7-a565-47c0-912e-3a6beb490b2e" />
+
+ 📊 Dashboard
+<img width="1371" height="781" alt="screenshot-1779046247531" src="https://github.com/user-attachments/assets/ccadf027-a3af-489c-8cc0-7db3bd42fb3a" />
+
+ 📉 Sales Forecasting
+<img width="1374" height="774" alt="screenshot-1779047370379" src="https://github.com/user-attachments/assets/dbfffbfd-0f58-4bf5-a0b4-fe2dcecba771" />
+
+ 🔍 Key Insights
+<img width="1376" height="777" alt="screenshot-1779047432230" src="https://github.com/user-attachments/assets/72589207-16df-4c6b-af18-005da9a9da21" />
+
+
 
 📌 Future Improvements
 
